@@ -1,0 +1,34 @@
+{
+  "days": [
+    {
+      "name": "pecs-biceps",
+      "day": "saturday",
+      "exercises": [
+        { "name": "Chest press", "repRange": "10-15", "difficulty": 7 },
+        {
+          "name": "Inclined chest press",
+          "repRange": "6-10",
+          "difficulty": 9
+        },
+        { "name": "Cables", "repRange": "10-30", "difficulty": 4 },
+        {
+          "name": "Seated inclined curls",
+          "repRange": "10-20",
+          "difficulty": 6
+        },
+        { "name": "Hammer curls", "repRange": "8-15", "difficulty": 2 }
+      ]
+    },
+    {
+      "name:": "back",
+      "day": "tuesday",
+      "exercises": [
+        { "name": "Pull ups", "repRange": "10-15", "difficulty": 7 },
+        { "name": "High row", "repRange": "6-10", "difficulty": 5.5 },
+        { "name": "Pull-over", "repRange": "10-30", "difficulty": 6 },
+        { "name": "Seated cable rows", "repRange": "10-20", "difficulty": 6 },
+        { "name": "Low row", "repRange": "8-15", "difficulty": 2 }
+      ]
+    }
+  ]
+}

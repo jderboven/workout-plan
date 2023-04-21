@@ -1,14 +1,10 @@
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-import styles from "./app.module.scss";
-
-import NxWelcome from "./nx-welcome";
+import WorkoutPlan from './workout-plan';
 
 export function App() {
   return (
     <>
-      <NxWelcome title="workout-plan" />
-
-      <div />
+      <WorkoutPlan></WorkoutPlan>
     </>
   );
 }
